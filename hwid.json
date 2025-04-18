@@ -1,18 +1,12 @@
 {
-    "user": [
+    "admin": [
         {
-            "username": "mrjackff",
-            "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
-            "expiry": "2029-04-16",
+            "username": "testuser",
+            "hwid": "",
+            "expiry": "2025-04-19",
             "subscription": "active",
-            "package": "Sniper"
-        },
-        {
-            "username": "mrjack",
-            "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
-            "expiry": "2029-04-16",
-            "subscription": "active",
-            "package": "Sniper"
+            "package": "free",
+            "free_user": true
         }
     ]
 }
