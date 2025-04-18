@@ -1,18 +1,3 @@
 {
-    "admin": [
-        {
-            "username": "ROHAN",
-            "subscription": "active",
-            "expiry": "2025-07-18",
-            "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
-            "package": "Sniper"
-        },
-        {
-            "username": "ROHAN",
-            "subscription": "active",
-            "expiry": "2025-07-18",
-            "hwid": "S-1-5-21-2607287190-3554585687-3935447999-1001",
-            "package": "Sniper"
-        }
-    ]
+    "admin": []
 }
