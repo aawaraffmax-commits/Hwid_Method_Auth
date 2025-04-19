@@ -160,6 +160,13 @@
             "expiry": "2026-03-18",
             "hwid": "S-1-5-21-1322239090-698640719-1288662716-1001",
             "package": "AIMSILENT"
+        },
+        {
+            "username": "BANKAI",
+            "subscription": "active",
+            "expiry": "2027-09-24",
+            "hwid": "S-1-5-21-3000231573-3354259124-974041485-500",
+            "package": "BASIC"
         }
     ]
 }
