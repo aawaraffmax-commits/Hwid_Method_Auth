@@ -237,6 +237,13 @@
             "expiry": "2026-03-18",
             "hwid": "S-1-5-21-3322140644-3784648179-3595917-1003",
             "package": "AIMSILENT"
+        },
+        {
+            "username": "ISHAN",
+            "subscription": "active",
+            "expiry": "2025-04-21",
+            "hwid": "S-1-5-21-3322140644-3784648179-3595917-1003",
+            "package": "AIMSILENT"
         }
     ]
 }
