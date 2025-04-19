@@ -181,6 +181,13 @@
             "expiry": "2027-06-05",
             "hwid": "S-1-5-21-1714938990-985556046-1544175104-1001",
             "package": "AIMSILENT"
+        },
+        {
+            "username": "NAKUL",
+            "subscription": "active",
+            "expiry": "2027-06-05",
+            "hwid": "S-1-5-21-1714938990-985556046-1544175104-1001",
+            "package": "BASIC"
         }
     ]
 }
