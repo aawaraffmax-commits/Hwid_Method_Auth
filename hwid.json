@@ -34,6 +34,13 @@
             "expiry": "2028-01-12",
             "hwid": "S-1-5-21-2780584933-2797539697-3922171103-1001",
             "package": "BASIC"
+        },
+        {
+            "username": "JODE",
+            "subscription": "active",
+            "expiry": "2028-01-12",
+            "hwid": "S-1-5-21-3045927045-2304269439-1587159341-1001",
+            "package": "AIMSILENT"
         }
     ]
 }
