@@ -90,6 +90,13 @@
             "expiry": "2025-05-19",
             "hwid": "S-1-5-21-29863444-2984853921-175246538-1001",
             "package": "INTERNAL"
+        },
+        {
+            "username": "DX7",
+            "subscription": "active",
+            "expiry": "2025-05-19",
+            "hwid": "S-1-5-21-1771218891-2936889761-2153778036-1001",
+            "package": "INTERNAL"
         }
     ]
 }
