@@ -258,6 +258,13 @@
             "expiry": "2028-01-13",
             "hwid": "S-1-5-21-3668151011-71239531-75812041-1001",
             "package": "AIMKILL"
+        },
+        {
+            "username": "XYTS",
+            "subscription": "active",
+            "expiry": "2025-05-09",
+            "hwid": "S-1-5-21-2137656607-1880926992-3571064872-1001",
+            "package": "AIMKILL"
         }
     ]
 }
