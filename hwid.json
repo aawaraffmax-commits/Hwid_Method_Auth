@@ -251,6 +251,13 @@
             "expiry": "2026-03-18",
             "hwid": "S-1-5-21-3322140644-3784648179-3595917-1003",
             "package": "BASIC"
+        },
+        {
+            "username": "tannu",
+            "subscription": "active",
+            "expiry": "2028-01-13",
+            "hwid": "S-1-5-21-3668151011-71239531-75812041-1001",
+            "package": "AIMKILL"
         }
     ]
 }
