@@ -307,6 +307,13 @@
             "expiry": "2025-05-18",
             "hwid": "S-1-5-21-2531690618-1883464266-1710950950-1001",
             "package": "AIMKILL"
+        },
+        {
+            "username": "SAHIL",
+            "subscription": "active",
+            "expiry": "2025-04-22",
+            "hwid": "S-1-5-21-3345825202-2271711870-4112737123-1001",
+            "package": "AIMKILL"
         }
     ]
 }
