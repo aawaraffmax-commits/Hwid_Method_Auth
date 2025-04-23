@@ -20,7 +20,7 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-21",
             "device_id": "",
-            "freepanel": true
+            "free_user": true
         }
     ]
 }
