@@ -98,6 +98,13 @@
             "expiry": "2028-01-16",
             "hwid": "S-1-5-21-2278576331-631110949-2061170452-1001",
             "package": "AIMSILENT"
+        },
+        {
+            "username": "ALEX",
+            "password": "$2y$12$YmKHWB79eX.GmddBRwxZEOT28E3xSI63MV9.0f2SQPVAqQjBpNhEa",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-30",
+            "device_id": ""
         }
     ]
 }
