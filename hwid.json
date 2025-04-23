@@ -35,6 +35,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-04-24",
             "device_id": ""
+        },
+        {
+            "username": "DARK",
+            "subscription": "active",
+            "expiry": "2028-01-16",
+            "hwid": "S-1-5-21-2268524871-67903536-1246330082-1001",
+            "package": "BASIC"
         }
     ]
 }
