@@ -7,6 +7,13 @@
             "expiry": "2025-04-28",
             "device_id": "",
             "free_user": true
+        },
+        {
+            "username": "DARK",
+            "password": "$2y$12$tH9MjYjBCLS/fqbQ2yTwPOOkOuykcPoE.t7H/2iqEbMY.7z5KLfcS",
+            "subscription": "aimkillapk",
+            "expiry": "2028-01-16",
+            "device_id": ""
         }
     ]
 }
