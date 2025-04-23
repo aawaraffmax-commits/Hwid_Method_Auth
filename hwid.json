@@ -10,7 +10,7 @@
         },
         {
             "username": "DARK",
-            "password": "$2y$12$tH9MjYjBCLS\/fqbQ2yTwPOOkOuykcPoE.t7H\/2iqEbMY.7z5KLfcS",
+            "password": "$2y$12$tH9MjYjBCLS/fqbQ2yTwPOOkOuykcPoE.t7H/2iqEbMY.7z5KLfcS",
             "subscription": "aimkillapk",
             "expiry": "2028-01-16",
             "device_id": "d424bb7d3174aeef"
@@ -45,17 +45,24 @@
         },
         {
             "username": "TOXIC",
-            "password": "$2y$12$8mwlfo5951pii\/r6E6pDJeMoukaNvZC.S2KMCjfx\/6f6zlQgscKDa",
+            "password": "$2y$12$8mwlfo5951pii/r6E6pDJeMoukaNvZC.S2KMCjfx/6f6zlQgscKDa",
             "subscription": "aimkillapk",
             "expiry": "2025-05-12",
             "device_id": "943b2af275e6dc79"
         },
         {
             "username": "PCJODE",
-            "password": "$2y$12$cgh30N.RCGZUbCENIkqhp.1gs.Tpul\/lN8hZ\/q9tasRmpi9raPLTC",
+            "password": "$2y$12$cgh30N.RCGZUbCENIkqhp.1gs.Tpul/lN8hZ/q9tasRmpi9raPLTC",
             "subscription": "aimkillapk",
             "expiry": "2025-04-29",
             "device_id": "3e67f655c2c5304b"
+        },
+        {
+            "username": "BUNTY",
+            "password": "$2y$12$REogsYOu5uj2kpHEAxGI8OoeYTYqdTCW5dfDFJplHYgDRIsVdgx/6",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-24",
+            "device_id": ""
         }
     ]
 }
