@@ -1,3 +1,12 @@
 {
-    "admin": []
+    "admin": [
+        {
+            "username": "PRITAMX999",
+            "password": "$2y$12$1oj4eKzkfXVC28h6LRRvt.K11RINGh.y7AuwQp9nwoTZDvz179A8a",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-28",
+            "device_id": "",
+            "free_user": true
+        }
+    ]
 }
