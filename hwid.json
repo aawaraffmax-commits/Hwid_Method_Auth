@@ -126,6 +126,13 @@
             "expiry": "2025-05-17",
             "hwid": "S-1-5-21-2278576331-631110949-2061170452-1001",
             "package": "BRUTAL"
+        },
+        {
+            "username": "mani",
+            "password": "$2y$12$joHpMZYvYli1Iw3qhc1n.eXBIe1IBvnQShyHhoYwxfV.o9hDLW4bG",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-31",
+            "device_id": ""
         }
     ]
 }
