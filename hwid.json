@@ -10,10 +10,10 @@
         },
         {
             "username": "DARK",
-            "password": "$2y$12$tH9MjYjBCLS/fqbQ2yTwPOOkOuykcPoE.t7H/2iqEbMY.7z5KLfcS",
+            "password": "$2y$12$tH9MjYjBCLS\/fqbQ2yTwPOOkOuykcPoE.t7H\/2iqEbMY.7z5KLfcS",
             "subscription": "aimkillapk",
             "expiry": "2028-01-16",
-            "device_id": ""
+            "device_id": "d424bb7d3174aeef"
         }
     ]
 }
