@@ -189,6 +189,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-07-31",
             "device_id": ""
+        },
+        {
+            "username": "MENTAL",
+            "password": "$2y$12$HKJUd9exwtP/mEK0UgOzAOm0Rq9jN.hugC/7bbJDAVI7OceWGicnK",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-31",
+            "device_id": ""
         }
     ]
 }
