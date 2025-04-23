@@ -29,6 +29,14 @@
             "expiry": "2026-04-22",
             "device_id": "",
             "free_user": true
+        },
+        {
+            "username": "PRITAM",
+            "password": "$2y$12$04/Uh3t6IPP8h/FgKmjrhORQHj3x1xf.jMymG0EBj1imqNjGs8sbq",
+            "subscription": "aimkillapk",
+            "expiry": "2025-07-21",
+            "device_id": "",
+            "free_user": true
         }
     ]
 }
