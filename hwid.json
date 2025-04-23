@@ -105,6 +105,13 @@
             "subscription": "aimkillapk",
             "expiry": "2025-04-23",
             "device_id": ""
+        },
+        {
+            "username": "sis",
+            "password": "$2y$12$9dTYV0q8YJ7jKWu3l/4n7OXOnBXoVgb9Gn/NkJdvtBZSZpZY.DBm.",
+            "subscription": "aimkillapk",
+            "expiry": "2025-04-24",
+            "device_id": ""
         }
     ]
 }
