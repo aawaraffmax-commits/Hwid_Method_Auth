@@ -19,7 +19,8 @@
             "password": "$2y$12$QfLM5r3h3NMdR0yc7P1E4eIkha3J3FqoVZgNqBNdA31xd6AFoY7By",
             "subscription": "aimkillapk",
             "expiry": "2025-07-21",
-            "device_id": ""
+            "device_id": "",
+            "freepanel": true
         }
     ]
 }
